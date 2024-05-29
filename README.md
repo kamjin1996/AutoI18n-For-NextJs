@@ -2,6 +2,8 @@
 
 <img src="https://media.autoi18n.dev/autoi18n_logo_black.png" width = 55%>
 
+[中文](README.zh.MD) | English
+
 # Auto Internationalization For NextJs
 
 **Auto Internationalization For NextJs** aims to provide an automatic internationalization solution for Next.js projects, saving you time and increasing development efficiency.
