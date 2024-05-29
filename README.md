@@ -1,6 +1,6 @@
 # AutoI18n-For-NextJs
 
-<img src="https://media.autoi18n.dev/autoi18n_logo_black.png" width = 55%>
+<img src="https://media.autoi18n.dev/autoi18n_logo_black.png" width = 67%>
 
 [中文](README.zh.MD) | English
 
