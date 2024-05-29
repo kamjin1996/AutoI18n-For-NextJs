@@ -1,5 +1,7 @@
 # AutoI18n-For-NextJs
 
+<img src="https://media.autoi18n.dev/autoi18n_logo_black.png" width = 55%>
+
 **Auto Internationalization For NextJs**，即为NextJs项目自动国际化，旨在为NextJs项目提供自动国际化解决方案，节省您的时间并提高开发效率。
 
 我们的工具通过简化对采用了 **AppRouter 的 Next.js 项目** 的国际化 以及 **持续更新新页面的国际化流程**，帮助用户更轻松地完成项目的国际化处理。
