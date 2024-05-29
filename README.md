@@ -4,32 +4,33 @@
 
 # Auto Internationalization For NextJs
 
-**Auto Internationalization For NextJs** 旨在为 Next.js 项目提供自动国际化解决方案，节省您的时间并提高开发效率。
+**Auto Internationalization For NextJs** aims to provide an automatic internationalization solution for Next.js projects, saving you time and increasing development efficiency.
 
-我们的工具通过简化对采用 **AppRouter 的 Next.js 项目** 的国际化处理以及 **持续更新新页面的国际化流程**，帮助用户更轻松地完成项目的国际化工作。
+Our tool simplifies the internationalization process for **Next.js projects using AppRouter** and **continuously updating new pages**, helping users easily handle the internationalization of their projects.
 
-当前版本的 AutoI18n For NextJs 内部集成了 **next-intl**，作为基本的国际化处理库，用于处理项目的文本内容。
+The current version of AutoI18n For NextJs integrates **next-intl** as the basic internationalization library to handle the project's textual content.
 
-## 特性
+## Features
 
-- 支持通过可视化界面配置国际化参数，例如需要的语言，静态渲染，默认跳转等
-- 一键完成对 Next.js 项目的集成和更新国际化支持
-- 通过专用的编辑器，一键式编辑和翻译已经 i18n 的标签和内容
-- 支持预览集成效果，提供语言下拉或平铺式的切换组件
+- Support for configuring internationalization parameters through a visual interface, such as required languages, static rendering, default redirects, etc.
+- One-click integration and updating of internationalization support for Next.js projects
+- A dedicated editor for one-click editing and translation of already i18n-labeled content
+- Preview integration effects, providing language dropdown or tiled switching components
 
-## 安装
+## Installation
 
-请从 [Releases](./releases) 页面下载最新版本的安装包并解压，双击 `autoi18n-for-nextjs.exe` 启动。
+Download the latest version from the [Releases](./releases) page, extract it, and double-click `autoi18n-for-nextjs.exe` to start.
 
-## 使用方法
+## Usage
 
-该工具界面简单易懂，根据需求配置后，可以进行提交和效果预览。
+The tool interface is simple and intuitive. Configure it as needed, then submit and preview the effects.
 
-## 局限性
+## Limitations
 
-目前，AutoI18n 主要提供了对项目集成和页面标签文本内容级别的国际化处理。然而，由于项目国际化本身的复杂性和持续性维护需求，对于用户个性化的国际化定制需求，可能需要按照 next-intl 文档自行修改和处理。我们也将在后续更新中做更多支持。
+Currently, AutoI18n mainly provides internationalization processing for project integration and page label text content levels. However, due to the complexity and continuous maintenance requirements of project internationalization, users may need to make personalized internationalization customizations according to the next-intl documentation. We will also provide more support in future updates.
 
-## 贡献
+## Contributions
 
-欢迎对本项目提出意见和建议。目前项目由作者独自开发，感兴趣的可以联系我：kamjin1996@163.com
+We welcome any feedback and suggestions on this project. Currently, the project is developed solely by the author. If interested, you can contact me at: kamjin1996@163.com
+
 
