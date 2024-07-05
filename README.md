@@ -21,7 +21,7 @@ The current version of AutoI18n For NextJs integrates **next-intl** as the basic
 
 ## Installation
 
-Download the latest version from the [Releases](./releases) page, extract it, and double-click `autoi18n-for-nextjs.exe` to start.
+Download the latest version from the [Download](https://autoi18n.dev/download) page, download and software installation and use according to different systems.
 
 ## Usage
 
@@ -33,6 +33,6 @@ Currently, AutoI18n mainly provides internationalization processing for project 
 
 ## Contributions
 
-We welcome any feedback and suggestions on this project. Currently, the project is developed solely by the author. If interested, you can contact me at: kamjin1996@163.com
+We welcome any feedback and suggestions on this project. Currently, the project is developed solely by the author. If interested, you can contact me at: support@autoi18n.dev
 
 
