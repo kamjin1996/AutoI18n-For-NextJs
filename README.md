@@ -25,7 +25,7 @@ Download the latest version from the [Download](https://autoi18n.dev/download) p
 
 ## Usage
 
-The tool interface is simple and intuitive. Configure it as needed, then submit and preview the effects.
+The tool interface is simple and intuitive. Configure it as needed, then submit and preview the effects. You can view the [docs](https://autoi18n.dev/docs)
 
 ## Limitations
 
